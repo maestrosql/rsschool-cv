@@ -8,4 +8,4 @@
 ## Education
 * 2001-2004 College of Education (NSPK)
 ## Professional Skills
-* HTML5, CSS, JS
+* HTML5, CSS, JS, SQL
